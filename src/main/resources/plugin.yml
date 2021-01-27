@@ -1,0 +1,7 @@
+name: DeathNote
+version: 0.1.0
+main: DeathNote
+api-version: 1.13
+author: vinhowe
+description: Show location of death in chat.
+website: https://github.com/vinhowe/DeathNote
